@@ -1,0 +1,11 @@
+YAML spec.
+https://yaml.org/spec/1.2/spec.html
+
+List of POD properties
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/#_v1_podspec
+
+Kubernetes API spec
+https://kubernetes.io/docs/concepts/overview/kubernetes-api/
+
+Info on Rolling Updates
+https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
