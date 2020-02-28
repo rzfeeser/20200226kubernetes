@@ -10,5 +10,6 @@ https://kubernetes.io/docs/concepts/overview/kubernetes-api/
 Info on Rolling Updates
 https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
 
-simpleservice image: ## readme might be helpful to understand the solution running in simpleservice
+## readme might be helpful to understand the solution running in simpleservice
+simpleservice image:
 https://github.com/mhausenblas/simpleservice
