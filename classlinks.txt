@@ -9,3 +9,10 @@ https://kubernetes.io/docs/concepts/overview/kubernetes-api/
 
 Info on Rolling Updates
 https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
+
+## readme might be helpful to understand the solution running in simpleservice
+simpleservice image:
+https://github.com/mhausenblas/simpleservice
+
+## Helpful blog by alta3 researcher to aid in building yoru own k8s cluster @ home
+https://alta3.com/blog/00fg5lqocxkpikimilx872gnbtt2yc
